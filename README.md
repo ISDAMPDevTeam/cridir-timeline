@@ -111,10 +111,6 @@ The visualization applies desaturated, professional tone profiles paired with st
 * 🟠 **Peach (`#F4B183`)**: Release Management, Stabilization, & Decommissioning
 * 🔴 **Red Dashed Line**: Dynamic present-day indicator line highlighting active work tracks.
 
-```
-
-***
-
 ### 💡 Tips for Customization
 * **Repository Links:** Replace `https://github.com/your-organization/...` with your actual Git repo workspace URL.
 * **Azure DevOps base URL:** If your ADO project group has an alternative root endpoint structure than the internal `https://dev.azure.com/bc-icm/FODIG/...` path inside cell 1, you can explicitly update that section under the `build_ado_url` block inside the codebase helper rules.
